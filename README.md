@@ -93,3 +93,4 @@ By default, the partial will receive the same context object as the template tha
 
 - [Handlebars](http://handlebarsjs.com)
 - [Handlebars partials](http://handlebarsjs.com/partials.html)
+<p data-visibility='hidden'>PHRG JavaScript Handlebars Templates Lab</p>
