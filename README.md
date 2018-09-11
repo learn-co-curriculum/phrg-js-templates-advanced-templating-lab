@@ -89,6 +89,9 @@ By default, the partial will receive the same context object as the template tha
 
 **Note:** The provided `index.js` includes a function called `init` that will be called when the page loads. Put any Handlebars registration code and page initialization code you need inside this function or your tests will not function correctly.
 
+## Does this need an update?
+ Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-js-templates-advanced-templating-lab/issues) or [pull-request](https://github.com/learn-co-curriculum/phrg-js-templates-advanced-templating-lab/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-request, and send them a link via Connect.
+
 # Resources
 
 - [Handlebars](http://handlebarsjs.com)
